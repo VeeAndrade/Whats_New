@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Menu should render a Menu component 1`] = `
+<section
+  className="menu-section"
+>
+  <button
+    className="menu-btn"
+    name="local"
+    onClick={[Function]}
+  >
+    ❖ Local
+  </button>
+  <button
+    className="menu-btn"
+    name="entertainment"
+    onClick={[Function]}
+  >
+    ❖ Entertainment
+  </button>
+  <button
+    className="menu-btn"
+    name="health"
+    onClick={[Function]}
+  >
+    ❖ Health
+  </button>
+  <button
+    className="menu-btn"
+    name="science"
+    onClick={[Function]}
+  >
+    ❖ Science
+  </button>
+  <button
+    className="menu-btn"
+    name="technology"
+    onClick={[Function]}
+  >
+    ❖ Technology
+  </button>
+</section>
+`;
