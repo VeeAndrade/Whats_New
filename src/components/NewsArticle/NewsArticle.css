@@ -1,0 +1,56 @@
+.article-section {
+  display: flex;
+  flex-flow: column nowrap;
+  width: 90%;
+  height: 430px;
+}
+
+.article-info {
+  width: 100%;
+  height: 200px;
+  background-color: #fff;
+  overflow: scroll;
+}
+
+.article-headline {
+  margin-top: 5px;
+  font-size: 1.3em;
+  color: #000;
+  height: 50%;
+}
+
+.article-description {
+  margin: 0px 8px;
+  color: #000;
+  text-align: center;
+  height: 50%;
+}
+
+.article-image {
+  width: 100%;
+  height: 40%;
+  background-position: top;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+
+.url-section {
+  display: flex;
+  width: 100%;
+  background-color: #B56AF1;
+  justify-content: space-between;
+}
+
+.article-url {
+  font-size: 1.4em;
+  color: #fff;
+  width: 50%;
+  text-decoration: none;
+}
+
+.article-url-arrow {
+  width: 50%;
+  font-size: 1.6em;
+  color: #fff;
+}
