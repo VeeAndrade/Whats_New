@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewsArticle should render a new news article 1`] = `
+<section
+  className="article-section"
+>
+  <img
+    alt="news"
+    className="article-image"
+    src="url@url.com"
+  />
+  <section
+    className="article-info"
+  >
+    <h2
+      className="article-headline"
+    >
+      Fake News
+    </h2>
+    <p
+      className="article-description"
+    >
+      blah
+    </p>
+  </section>
+  <section
+    className="url-section"
+  >
+    <a
+      className="article-url"
+      href="url@url.com"
+    >
+      Link To article
+    </a>
+    <p
+      className="article-url-arrow"
+    >
+      →
+    </p>
+  </section>
+</section>
+`;
