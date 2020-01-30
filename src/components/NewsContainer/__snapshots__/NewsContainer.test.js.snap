@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewsContainer should render all the news articles 1`] = `
+<section
+  className="news-container"
+>
+  <NewsArticle
+    description="The screams from hell finally come through"
+    headline="The Underworld"
+    url="url@url.com"
+  />
+</section>
+`;
